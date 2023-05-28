@@ -3,4 +3,4 @@
 This is usedd for demonstrating workflow with git.
 
 
-Feature 1. cat.
+Feature 1. dog. cat.
